@@ -1,0 +1,6 @@
+typer[rich]==0.17.3
+selenium==4.35.0
+sqlalchemy==2.0.43
+pydantic==2.11.7
+webdriver-manager==4.0.2
+markdownify==1.2.0
